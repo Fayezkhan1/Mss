@@ -1,0 +1,13 @@
+.hackathon{
+    background-color: #1F4B62;
+    margin-top:50px;
+    padding: 50px 0;
+    color:white
+}
+
+.hackathon h1{
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}

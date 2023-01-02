@@ -9,7 +9,9 @@ function Hero()
             <div className="Hero">
                 
                 <img  alt="HeroImg" src={pic}/>
-                <h1 className='tag'>Innovate.Invent.Inspire</h1>
+                <h1 className='hero-text'>Innovate.Invent.Inspire.</h1>
+                <h1 className='hero-text2'>Microsoft Student Society</h1>
+
             </div>
         </>
 

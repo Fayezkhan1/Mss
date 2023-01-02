@@ -15,7 +15,7 @@ export const MenuItems=[
 
     },
     {
-        title:"Events",
+        title:"Home",
         url:"/",
         cName: "nav-links",
         icon:"fa-solid fa-calendar-days"
